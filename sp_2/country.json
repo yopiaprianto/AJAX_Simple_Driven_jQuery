@@ -1,0 +1,24 @@
+{
+  "countries": [
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "temp": "25"
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "temp": "23"
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "temp": "10"
+    },
+    {
+      "code": "UK",
+      "name": "United Kingdom",
+      "temp": "2"
+    }
+  ]
+}
